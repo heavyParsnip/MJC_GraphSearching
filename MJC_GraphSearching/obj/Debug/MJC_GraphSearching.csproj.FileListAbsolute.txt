@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\bin\Debug\MJC_GraphSearching.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\bin\Debug\MJC_GraphSearching.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\bin\Debug\MJC_GraphSearching.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\obj\Debug\MJC_GraphSearching.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\obj\Debug\MJC_GraphSearching.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\obj\Debug\MJC_GraphSearching.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GraphSearching\MJC_GraphSearching\obj\Debug\MJC_GraphSearching.pdb
